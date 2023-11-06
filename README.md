@@ -1,8 +1,18 @@
-# decodeObfuscator
+# decodeObfuscator代码
 免安装一键还原Obfuscator混淆过的代码
 
-
 - 本文章中所有内容仅供学习交流，不可用于任何商业用途和非法用途，否则后果自负，如有侵权，请联系作者立即删除！
+
+# 大神视频教程地址
+【【16期】加速乐（上）加密解剖--"某信息化平台"爬虫js逆向·实战教程】
+```javascript
+https://www.bilibili.com/video/BV1mY4y1Q7pF
+```
+
+【【16期】加速乐（下）加密解剖--"某信息化平台"爬虫js逆向·实战教程】
+```javascript
+https://www.bilibili.com/video/BV1n54y1T7oY
+```
 
 - 项目地址
 ```javascript
